@@ -1,6 +1,6 @@
 {
 	"wishlist": {
-		"resultsTotal": 11,
+		"resultsTotal": 16,
 		"results": [{
 				"id": 494801,
 				"title": "Cosmonator",
@@ -151,7 +151,281 @@
 				"playtimeAverage": 20,
 				"g4bRatio": null,
 				"wishlist": "steam"
+			},
+			    			{
+				"id": 494804,
+				"title": "NBA 2K21",
+				"isReleased": true,
+				"releaseDate": "2019-01-21",
+				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1225330/header.jpg",
+				"steamScoreDesc": "Mostly Negative",
+				"steamScore": 39,
+				"type": "Game",
+				"categories": [
+					"Single-player",
+					"Online PvP",
+					"Shared/Split Screen PvP",
+					"Online Co-Op",
+					"Shared/Split Screen Co-Op"
+				],
+				"genres": [
+					"Simulation",
+					"Sports"
+				],
+				"storeName": "Steam",
+				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"gameDrms": [
+					"drm-steam"
+				],
+				"coupon": null,
+				"discountPercentage": 10,
+				"isHistoricLow": false,
+				"fullPrice": "59.99 €",
+				"discountPrice": "55.99 €",
+				"startDate": "2021-05-04 16:00:00",
+				"endDate": "2021-06-04 16:00:00",
+				"active": true,
+				"isFree": false,
+				"isFreeToPlay": false,
+				"playtimeMedian": null,
+				"playtimeAverage": 20,
+				"g4bRatio": null,
+				"wishlist": "steam"
 			}
+		]
+	},
+	"wishlist2": {
+		"results": [{
+				"id": 494801,
+				"title": "Cosmonator",
+				"isReleased": true,
+				"releaseDate": "2019-01-21",
+				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/656740/header.jpg",
+				"steamScoreDesc": "Positive",
+				"steamScore": 91,
+				"type": "Game",
+				"categories": [
+					"Single-player",
+					"Co-op"
+				],
+				"genres": [
+					"Action",
+					"Trollolololol"
+				],
+				"storeName": "EpicGames",
+				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg",
+				"gameDrms": [
+					"drm-epic"
+				],
+				"coupon": "TestCoupon92783",
+				"discountPercentage": 25,
+				"isHistoricLow": false,
+				"fullPrice": "11.99 €",
+				"discountPrice": "8.99 €",
+				"startDate": "2021-05-04 16:00:00",
+				"endDate": "2021-04-01 16:00:00",
+				"active": true,
+				"isFree": false,
+				"isFreeToPlay": false,
+				"playtimeMedian": 60,
+				"playtimeAverage": 70,
+				"g4bRatio": 6.67,
+				"wishlist": "site"
+			},
+			{
+				"id": 494802,
+				"title": "Grand Theft Auto V",
+				"isReleased": true,
+				"releaseDate": "2019-01-21",
+				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+				"steamScoreDesc": "Mixed",
+				"steamScore": 75,
+				"type": "Game",
+				"categories": [
+					"Single-player",
+					"Multiplayer"
+				],
+				"genres": [
+					"Action",
+					"Adventure"
+				],
+				"storeName": "GreenManGaming",
+				"storeLogo": "/img/logo.png",
+				"gameDrms": [
+					"drm-drm-free",
+					"drm-gog"
+				],
+				"coupon": null,
+				"discountPercentage": 75,
+				"isHistoricLow": false,
+				"fullPrice": "39.98 €",
+				"discountPrice": "10.00 €",
+				"startDate": "2021-05-04 16:00:00",
+				"endDate": "2021-06-01 16:00:00",
+				"active": true,
+				"isFree": false,
+				"isFreeToPlay": false,
+				"playtimeMedian": 150,
+				"playtimeAverage": 200,
+				"g4bRatio": 15,
+				"wishlist": "site"
+			},
+			{
+				"id": 494803,
+				"title": "DOOM Eternal",
+				"isReleased": true,
+				"releaseDate": "2019-01-21",
+				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg",
+				"steamScoreDesc": "Very Positive",
+				"steamScore": null,
+				"type": "Game",
+				"categories": [
+					"Single-player",
+					"Online PvP"
+				],
+				"genres": [
+					"Action"
+				],
+				"storeName": "Steam",
+				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"gameDrms": [
+					"drm-steam"
+				],
+				"coupon": null,
+				"discountPercentage": 67,
+				"isHistoricLow": false,
+				"fullPrice": "59.99 €",
+				"discountPrice": "19.79 €",
+				"startDate": "2021-05-04 16:00:00",
+				"endDate": null,
+				"active": true,
+				"isFree": false,
+				"isFreeToPlay": false,
+				"playtimeMedian": 23,
+				"playtimeAverage": 35,
+				"g4bRatio": 1.16,
+				"wishlist": "steam"
+			},
+			{
+				"id": 494804,
+				"title": "NBA 2K21",
+				"isReleased": true,
+				"releaseDate": "2019-01-21",
+				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1225330/header.jpg",
+				"steamScoreDesc": "Mostly Negative",
+				"steamScore": 39,
+				"type": "Game",
+				"categories": [
+					"Single-player",
+					"Online PvP",
+					"Shared/Split Screen PvP",
+					"Online Co-Op",
+					"Shared/Split Screen Co-Op"
+				],
+				"genres": [
+					"Simulation",
+					"Sports"
+				],
+				"storeName": "Steam",
+				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"gameDrms": [
+					"drm-steam"
+				],
+				"coupon": null,
+				"discountPercentage": 10,
+				"isHistoricLow": false,
+				"fullPrice": "59.99 €",
+				"discountPrice": "55.99 €",
+				"startDate": "2021-05-04 16:00:00",
+				"endDate": "2021-06-04 16:00:00",
+				"active": true,
+				"isFree": false,
+				"isFreeToPlay": false,
+				"playtimeMedian": null,
+				"playtimeAverage": 20,
+				"g4bRatio": null,
+				"wishlist": "steam"
+			},
+			    			{
+				"id": 494804,
+				"title": "NBA 2K21",
+				"isReleased": true,
+				"releaseDate": "2019-01-21",
+				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1225330/header.jpg",
+				"steamScoreDesc": "Mostly Negative",
+				"steamScore": 39,
+				"type": "Game",
+				"categories": [
+					"Single-player",
+					"Online PvP",
+					"Shared/Split Screen PvP",
+					"Online Co-Op",
+					"Shared/Split Screen Co-Op"
+				],
+				"genres": [
+					"Simulation",
+					"Sports"
+				],
+				"storeName": "Steam",
+				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"gameDrms": [
+					"drm-steam"
+				],
+				"coupon": null,
+				"discountPercentage": 10,
+				"isHistoricLow": false,
+				"fullPrice": "59.99 €",
+				"discountPrice": "55.99 €",
+				"startDate": "2021-05-04 16:00:00",
+				"endDate": "2021-06-04 16:00:00",
+				"active": true,
+				"isFree": false,
+				"isFreeToPlay": false,
+				"playtimeMedian": null,
+				"playtimeAverage": 20,
+				"g4bRatio": null,
+				"wishlist": "steam"
+			}
+		]
+	},
+		"wishlist3": {
+		"results": [{
+				"id": 494801,
+				"title": "Cosmonator",
+				"isReleased": true,
+				"releaseDate": "2019-01-21",
+				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/656740/header.jpg",
+				"steamScoreDesc": "Positive",
+				"steamScore": 91,
+				"type": "Game",
+				"categories": [
+					"Single-player",
+					"Co-op"
+				],
+				"genres": [
+					"Action",
+					"Trollolololol"
+				],
+				"storeName": "EpicGames",
+				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg",
+				"gameDrms": [
+					"drm-epic"
+				],
+				"coupon": "TestCoupon92783",
+				"discountPercentage": 25,
+				"isHistoricLow": false,
+				"fullPrice": "11.99 €",
+				"discountPrice": "8.99 €",
+				"startDate": "2021-05-04 16:00:00",
+				"endDate": "2021-04-01 16:00:00",
+				"active": true,
+				"isFree": false,
+				"isFreeToPlay": false,
+				"playtimeMedian": 60,
+				"playtimeAverage": 70,
+				"g4bRatio": 6.67,
+				"wishlist": "site"
+			},
 		]
 	},
 	"results": {
