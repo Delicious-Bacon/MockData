@@ -1,6 +1,6 @@
 {
 	"wishlist": {
-		"resultsTotal": 11,
+		"resultsTotal": 9,
 		"results": [{
 				"id": 494801,
 				"title": "Cosmonator",
@@ -152,46 +152,6 @@
 				"g4bRatio": null,
 				"wishlist": "steam"
 			},
-			    			{
-				"id": 494804,
-				"title": "NBA 2K21",
-				"isReleased": true,
-				"releaseDate": "2019-01-21",
-				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1225330/header.jpg",
-				"steamScoreDesc": "Mostly Negative",
-				"steamScore": 39,
-				"type": "Game",
-				"categories": [
-					"Single-player",
-					"Online PvP",
-					"Shared/Split Screen PvP",
-					"Online Co-Op",
-					"Shared/Split Screen Co-Op"
-				],
-				"genres": [
-					"Simulation",
-					"Sports"
-				],
-				"storeName": "Steam",
-				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
-				"gameDrms": [
-					"drm-steam"
-				],
-				"coupon": null,
-				"discountPercentage": 10,
-				"isHistoricLow": false,
-				"fullPrice": "59.99 €",
-				"discountPrice": "55.99 €",
-				"startDate": "2021-05-04 16:00:00",
-				"endDate": "2021-06-04 16:00:00",
-				"active": true,
-				"isFree": false,
-				"isFreeToPlay": false,
-				"playtimeMedian": null,
-				"playtimeAverage": 20,
-				"g4bRatio": null,
-				"wishlist": "steam"
-			}
 		]
 	},
 	"wishlist2": {
@@ -346,46 +306,6 @@
 				"g4bRatio": null,
 				"wishlist": "steam"
 			},
-			    			{
-				"id": 494804,
-				"title": "NBA 2K21",
-				"isReleased": true,
-				"releaseDate": "2019-01-21",
-				"hdrImg": "https://cdn.cloudflare.steamstatic.com/steam/apps/1225330/header.jpg",
-				"steamScoreDesc": "Mostly Negative",
-				"steamScore": 39,
-				"type": "Game",
-				"categories": [
-					"Single-player",
-					"Online PvP",
-					"Shared/Split Screen PvP",
-					"Online Co-Op",
-					"Shared/Split Screen Co-Op"
-				],
-				"genres": [
-					"Simulation",
-					"Sports"
-				],
-				"storeName": "Steam",
-				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
-				"gameDrms": [
-					"drm-steam"
-				],
-				"coupon": null,
-				"discountPercentage": 10,
-				"isHistoricLow": false,
-				"fullPrice": "59.99 €",
-				"discountPrice": "55.99 €",
-				"startDate": "2021-05-04 16:00:00",
-				"endDate": "2021-06-04 16:00:00",
-				"active": true,
-				"isFree": false,
-				"isFreeToPlay": false,
-				"playtimeMedian": null,
-				"playtimeAverage": 20,
-				"g4bRatio": null,
-				"wishlist": "steam"
-			}
 		]
 	},
 		"wishlist3": {
