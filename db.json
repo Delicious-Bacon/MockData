@@ -1,5 +1,5 @@
 {
-	"wishlist": {
+	"wishlist?page=1": {
 		"resultsTotal": 9,
 		"results": [{
 				"id": 494801,
@@ -154,7 +154,7 @@
 			}
 		]
 	},
-	"wishlist2": {
+	"wishlist?page=2": {
 		"results": [{
 				"id": 494801,
 				"title": "Cosmonator",
@@ -308,7 +308,7 @@
 			}
 		]
 	},
-	"wishlist3": {
+	"wishlist?page=3": {
 		"results": [{
 			"id": 494801,
 			"title": "Cosmonator",
