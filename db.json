@@ -20,6 +20,7 @@
 				],
 				"storeName": "EpicGames",
 				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg",
+				"storeLink": "https://store.steampowered.com/app/656740/Cosmonator/",
 				"gameDrms": [
 					"drm-epic"
 				],
@@ -57,6 +58,7 @@
 				],
 				"storeName": "GreenManGaming",
 				"storeLogo": "/img/logo.png",
+				"storeLink": "https://store.steampowered.com/app/390290/Bulb_Boy/",
 				"gameDrms": [
 					"drm-drm-free",
 					"drm-gog"
@@ -94,6 +96,7 @@
 				],
 				"storeName": "Steam",
 				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"storeLink": "https://store.steampowered.com/app/290000/DubWars/",
 				"gameDrms": [
 					"drm-steam"
 				],
@@ -134,6 +137,7 @@
 				],
 				"storeName": "Steam",
 				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"storeLink": "https://store.steampowered.com/app/1225330/NBA_2K21/",
 				"gameDrms": [
 					"drm-steam"
 				],
@@ -174,6 +178,7 @@
 				],
 				"storeName": "EpicGames",
 				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg",
+				"storeLink": "https://store.steampowered.com/app/656740/Cosmonator/",
 				"gameDrms": [
 					"drm-epic"
 				],
@@ -211,6 +216,7 @@
 				],
 				"storeName": "GreenManGaming",
 				"storeLogo": "/img/logo.png",
+				"storeLink": "https://store.steampowered.com/app/588110/One_Dog_Story/",
 				"gameDrms": [
 					"drm-drm-free",
 					"drm-gog"
@@ -248,6 +254,7 @@
 				],
 				"storeName": "Steam",
 				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"storeLink": "https://store.steampowered.com/app/588110/One_Dog_Story/",
 				"gameDrms": [
 					"drm-steam"
 				],
@@ -288,6 +295,7 @@
 				],
 				"storeName": "Steam",
 				"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
+				"storeLink": "https://www.epicgames.com/store/en-US/p/nba-2k21",
 				"gameDrms": [
 					"drm-steam"
 				],
@@ -328,6 +336,7 @@
 			],
 			"storeName": "EpicGames",
 			"storeLogo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Epic_Games_logo.svg",
+			"storeLink": "https://store.steampowered.com/app/656740/Cosmonator/",
 			"gameDrms": [
 				"drm-epic"
 			],
